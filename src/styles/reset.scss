@@ -1,0 +1,26 @@
+/* Box Sizing */
+
+html {
+
+  box-sizing: border-box;
+
+}
+
+*, *:before, *:after {
+
+  box-sizing: inherit;
+
+}
+
+
+/* Typography */
+
+h1, h2, h3, h4, h5, h6, p, li, a, button, input, label {
+
+  color: inherit;
+  font-size: inherit;
+  line-height: inherit;
+  font-family: inherit;
+  font-weight: inherit;
+
+}
