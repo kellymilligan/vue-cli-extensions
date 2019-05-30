@@ -8,8 +8,8 @@
 
 export default {
   name: 'Example',
-  props: {},
   components: {},
+  props: {},
   data() {
     return {
 
